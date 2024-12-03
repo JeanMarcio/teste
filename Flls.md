@@ -22,4 +22,4 @@ Liquidez: É possível vender suas cotas facilmente na bolsa de valores.
 
 Renda Passiva: Recebimento de aluguéis sem se preocupar com a administração dos imóveis.
 
-[LINK PARA o Planfleto Flls()
+[LINK PARA o Planfleto Flls]()
